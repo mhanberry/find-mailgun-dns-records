@@ -1,0 +1,4 @@
+*.swp
+resource-record-sets
+results
+all-domains.txt
